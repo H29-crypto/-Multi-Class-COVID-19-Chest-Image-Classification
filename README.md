@@ -1,6 +1,5 @@
-# Covid-19-chest-x_rays-images-multi-class-classification-computer-vision-
-Covid-19 chest x_rays images multi-class classification while classes are (COVID, Pneumonia, normal)
+Multi-Class Classification of COVID-19 Chest X-Ray Images
 
-Dataset is from Kaggle, while I have split data into tests and train parts on my own. you can download official dataset from the <a href = 'https://www.kaggle.com/tawsifurrahman/covid19-radiography-database'>COVID-19 Radiography Database</a>
-
-<img src = "sample dataset images/Viral Pneumonia (192).png"/>
+Task: Classifying chest X-ray images into three categories: COVID, Pneumonia, and Normal.
+Dataset: Obtained from Kaggle's COVID-19 Radiography Database, split into training and testing sets.
+Download the official dataset from COVID-19 Radiography Database
